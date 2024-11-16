@@ -29,4 +29,5 @@
 1. Clone o repositório para o seu computador.
    
    ```bash
-   git clone <URL do repositório>
+   https://github.com/AlyssonSilv/dio-game-project.git
+   
